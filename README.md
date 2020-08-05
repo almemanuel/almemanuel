@@ -8,13 +8,6 @@ ___
 * <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"/>
 * <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black"/>
 ___
-#####
-:computer: &nbsp; I’m currently improving on developing my stacks / Estou melhorando minhas stacks
-<br/>🌱 &nbsp; I’m currently learning front end and Python / Estou estudando front end e Python :snake:
-<br/> 🤔 &nbsp; I’m looking for help with front-end and linux / Busco ajuda com front-end e linux
-<br/>💬 &nbsp; Ask me about logic / Pergunte-me sobre lógica
-<br/>⚡ &nbsp; About me: I'm Freschman in Computer Science from **UTFPR** / Sou calouro em Ciência da Computação pela **UTFPR**
-____
 ##### :link: &nbsp; My Social Medias / Minhas Redes Sociais:
 * [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/almeida-emanuel/)
 * [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/em4nuel.almeida/)
