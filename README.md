@@ -13,4 +13,4 @@ I'm a young student with a desire to use programming to solve problems<br/>Sou u
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/em_almeid/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://www.twitter.com/em_almeid/)
 <br/><br/>
-:pray: &nbsp; It's all to God's glory / Tudo para a glória de Deus
+SDG
