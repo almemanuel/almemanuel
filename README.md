@@ -14,7 +14,6 @@ I'm learning **C**, **Python** and **JavaScript**
 ![MacOs](https://img.shields.io/badge/Mojave-000000?style=flat&logo=apple&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white) ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=white) ![Chrome](https://img.shields.io/badge/Chrome-000000?style=flat&logo=Google-chrome&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-000000?style=flat&logo=Microsoft-edge&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-000000?style=flat&logo=Tor-Browser&logoColor=white)
 
 ---
-## GitHub Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 > “First, solve the problem. Then, write the code." (John Johnson)
