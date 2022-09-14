@@ -5,7 +5,7 @@
 ---
 I currently work at [Orion Aerospace Design](https://orionaerospace.com.br), in [Expresso Princesa dos Campos]https://www.princesadoscampos.com.br/) too as a Data Internship, and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
-I'm learning **Python's Data Science and Machine Learning* tools
+I'm learning **Python's Data Science and Machine Learning** tools
 
 ---
 ## Technologies & Tools
