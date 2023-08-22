@@ -3,7 +3,7 @@
 ### Starting the journey in the world of artificial intelligence.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel) [![Stack OverFlow](https://img.shields.io/badge/OverFlow-000000?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14760560/emanuel-almeida) [![Quora](https://img.shields.io/badge/Quora-000000?style=flat&logo=quora&logoColor=white)](https://pt.quora.com/profile/Emanuel-Almeida) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://instagram.com/em_almeid) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/em_almeid)
 ---
-I currently work at [Orion Aerospace Design](https://orionaerospace.com.br), in [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) too as a Jr Data Scientist, and study Computer Science at [UTFPR](https://utfpr.edu.br)
+I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Jr Data Scientist, and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
 I'm learning **Python's Data Science and Machine Learning** tools
 
