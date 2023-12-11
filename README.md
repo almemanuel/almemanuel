@@ -3,8 +3,8 @@
 ### Starting the journey in the world of artificial intelligence.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
-[![Kaggle](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
+[![Kaggle](https://img.shields.io/badge/freecodecamp-000000?style=flat&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
+[![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=flat&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
 ---
 I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Data Scientist and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
@@ -19,23 +19,23 @@ I'm Python's expert learning **Machine Learning** tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=black)
-
 ![PBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=black)
-![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&color=black)
+
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=black)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=black)
+![Mongo](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=black)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![MacOs](https://img.shields.io/badge/Catalina-000000?style=flat&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=flat&logo=windows&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=safari&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-000000?style=flat&logo=Google-chrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-000000?style=flat&logo=Microsoft-edge&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-000000?style=flat&logo=Tor-Browser&logoColor=white)
+![MacOs](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badgelog=safari&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-000000?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-000000?style=for-the-badgego=Mosoft-edge&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=Tor-Brfor-the-badger&logoColor=white)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
