@@ -29,14 +29,6 @@ I'm Python's expert learning **Machine Learning** tools
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![MacOs](https://img.shields.io/badge/Catalina-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badgelog=safari&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-000000?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-000000?style=for-the-badgego=Mosoft-edge&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=Tor-Brfor-the-badger&logoColor=white)
-
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almemanuel&layout=compact&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
