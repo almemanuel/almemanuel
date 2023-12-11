@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
 [![Kaggle](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
 ---
 I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Data Scientist and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
@@ -14,11 +15,17 @@ I'm Python's expert learning **Machine Learning** tools
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=black)
+![PBI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&color=black)
+![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ![MacOs](https://img.shields.io/badge/Catalina-000000?style=flat&logo=apple&logoColor=white)
