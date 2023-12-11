@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=almemanuel&style=social&color=000000) ![Followers](https://img.shields.io/github/followers/almemanuel?color=000000&label=Followers&logo=github&logoColor=black&style=social)
 # Hi, I'm Emanuel
 ### Starting the journey in the world of artificial intelligence.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
-[![Kaggle](https://img.shields.io/badge/kaggle-000000?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
-[![Kaggle](https://img.shields.io/badge/freecodecamp-000000?style=flat&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
+[![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
+[![Kaggle](https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
 [![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=flat&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
 ---
 I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Data Scientist and study Computer Science at [UTFPR](https://utfpr.edu.br)
@@ -12,9 +12,9 @@ I'm Python's expert learning **Machine Learning** tools
 
 ---
 ## Technologies & Tools
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000000?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
