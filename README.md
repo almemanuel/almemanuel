@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
 [![Kaggle](https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
-[![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=flat&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
+[![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
 ---
 I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Data Scientist and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
