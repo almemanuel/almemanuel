@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=almemanuel&style=social&color=000000) ![Followers](https://img.shields.io/github/followers/almemanuel?color=000000&label=Followers&logo=github&logoColor=black&style=social)
 # Hi, I'm Emanuel
-### Starting the journey in the world of artificial intelligence.
+### Starting the journey in the data world
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://lindkedin.cm/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.kaggle.com/@ds-beyond)
