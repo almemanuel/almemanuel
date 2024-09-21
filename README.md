@@ -24,15 +24,12 @@ I'm Python's expert learning **Machine Learning** and **Data Engineer** tools
 ![Prefect](https://img.shields.io/badge/prefect-000000?style=for-the-badge&logo=prefect&logoColor=white)
 
 
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-000000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&color=black)
+![Postgres](https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 ![Mongo](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
 ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=black)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
