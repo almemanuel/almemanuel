@@ -21,10 +21,9 @@ I'm Python's expert learning **Machine Learning** and **Data Engineer** tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=black)
 ![Airflow](https://img.shields.io/badge/airflow-000000?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/spark-000000?style=for-the-badge&logo=apache-spark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/duckdb-000000?style=for-the-badge&logo=duckdb&logoColor=white)
 ![Prefect](https://img.shields.io/badge/prefect-000000?style=for-the-badge&logo=prefect&logoColor=white)
 
-
+![DuckDB](https://img.shields.io/badge/duckdb-000000?style=for-the-badge&logo=duckdb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&color=black)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&color=black)
 ![Mongo](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&color=black)
