@@ -7,7 +7,7 @@
 [![FreeCodecamp](https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white&color=black)](https://www.freecodecamp.org/almemanuel)
 [![Duolingo](https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/em_alm)
 ---
-I currently work at [Expresso Princesa dos Campos](https://www.princesadoscampos.com.br/) as a Data Analyst and study Computer Science at [UTFPR](https://utfpr.edu.br)
+I currently work at [iFood](https://www.ifood.com.br/inicio), the biggest LatAm foodtech, as Data Intern and study Computer Science at [UTFPR](https://utfpr.edu.br)
 
 I'm Python's expert learning **Machine Learning** and **Data Engineer** tools
 
