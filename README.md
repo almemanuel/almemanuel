@@ -3,7 +3,7 @@
 
 # Hello, I'm Emanuel! 👋
 
-### Data Intern @iFood & AI Research Enthusiast
+### Intern @iFood & AI Research Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
@@ -12,7 +12,7 @@
 
 ## 🚀 About My Journey
 
-I'm a **Computer Science** student at [UTFPR](https://utfpr.edu.br) and currently work as a **Data Intern** at [iFood](https://www.ifood.com.br/inicio), the biggest LatAm foodtech. 
+I'm a **Computer Science** student at [UTFPR](https://utfpr.edu.br) and currently work as a **Intern** at [iFood](https://www.ifood.com.br/inicio), the biggest LatAm foodtech. 
 
 My passion lies in **Artificial Intelligence** - I'm actively conducting scientific research on **AI Agents** and **Computer Vision**, and I'm diving deep into the world of **Generative AI**.
 
