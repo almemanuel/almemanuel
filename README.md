@@ -51,13 +51,13 @@ I strongly believe that technology should be a force for good, **freeing people 
 - **Building**: Intelligent systems that automate meaningful work
 - **Exploring**: How AI can create better work-life balance for everyone
 
----
+<!-- ---
 
 ## 📈 GitHub Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almemanuel&layout=compact&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ---
 
 > "Technology should amplify human potential, not replace human purpose." 
