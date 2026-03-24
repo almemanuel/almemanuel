@@ -12,7 +12,7 @@
 
 ## 🚀 About My Journey
 
-I'm a **Computer Science** student at [UTFPR](https://utfpr.edu.br) and currently work as a **Intern** at [iFood](https://www.ifood.com.br/inicio), the biggest LatAm foodtech. 
+I'm a **Computer Science** student at [UTFPR](https://utfpr.edu.br) and a Junior Developer at [BluelephantAI](https://bluelephantai.com.br/), where I build AI agents. Previously, I was part of the team at [iFood](https://www.ifood.com.br/inicio), the largest foodtech in Latin America. 
 
 My passion lies in **Artificial Intelligence** - I'm actively conducting scientific research on **AI Agents** and **Computer Vision**, and I'm diving deep into the world of **Generative AI**.
 
