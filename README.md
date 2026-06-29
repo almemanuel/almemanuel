@@ -3,7 +3,7 @@
 
 # Hello, I'm Emanuel! 👋
 
-### Intern @iFood & AI Research Enthusiast
+### Jr Dev @BlueElephant, ex-@iFood & AI Research Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almeida-emanuel)
 [![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
