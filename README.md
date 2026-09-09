@@ -14,7 +14,7 @@ O000000000000000000Okdoolcc::cdO0000000000000    . Role: .......................
 00000000000O0OOxddxxxolloooxxxxxk000000KKKKKK    .
 0000000000000OOkddddollloooodxxxO00000KKKKKKK    - Profiles & Contact
 0000000000000OOOxxddooooodddxxxk00000KKKKKKKK    . LinkedIn: .............................. <a href="https://linkedin.com/in/almeida-emanuel">almeida-emanuel</a>
-0000000000000000OxddddddxxxxxdkO0000KKKKKKKKK    . GitHub: ................................ <a href="https://github.com/almsemanuel">almsemanuel</a>
+0000000000000000OxddddddxxxxxdkO0000KKKKKKKKK    . GitHub: ................................ <a href="https://github.com/almemanuel">almemanuel</a>
 00000000000OOOkxoooooooodddddddxkO000KKKKKKKK
 00000000OOOOOOkollodddddddxxxxdoxOOO000000KKK
 00000OOOOOOOOOOxooodxxxxxxxxxddxkOOOOOOOO0OO0
