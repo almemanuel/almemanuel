@@ -21,6 +21,6 @@ O000000000000000000Okdoolcc::cdO0000000000000    .................... Uniguaçu 
 00000OOO000OOO0kdodddxxxxxxxdxkO00OOOOOOOOOO0    ........................................ RAG & LLMs
 0000000000OOO00OkxdddxxxxxxxkkO000OO000OOOOO0    ===================================================
 00000000O0000000OOOkkkxxkkOO0O00K0OO00OOOOOO0    Profiles ------------------------------------------
-0000K000OO0K000000OOOOOO000OO000000000OOOOOOO    .... LinkedIn: .................... <a href="https://linkedin.com/in/almeida-emanuel">almeida-emanuel</a>
+0000K000OO0K000000OOOOOO000OO000000000OOOOOOO    . LinkedIn: ....................... <a href="https://linkedin.com/in/almeida-emanuel">almeida-emanuel</a>
                                                  
 </pre>
