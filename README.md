@@ -1,64 +1,25 @@
-![](https://komarev.com/ghpvc/?username=almemanuel&style=social&color=000000) 
-![Followers](https://img.shields.io/github/followers/almemanuel?color=000000&label=Followers&logo=github&logoColor=black&style=social)
-
-# Hello, I'm Emanuel! 👋
-
-### Jr Dev @BlueElephant, ex-@iFood & AI Research Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/almeida-emanuel)
-[![Kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/almemanuel)
-
----
-
-## 🚀 About My Journey
-
-I'm a **Computer Science** student at [UTFPR](https://utfpr.edu.br) and a Junior Developer at [BluelephantAI](https://bluelephantai.com.br/), where I build AI agents. Previously, I was part of the team at [iFood](https://www.ifood.com.br/inicio), the largest foodtech in Latin America. 
-
-My passion lies in **Artificial Intelligence** - I'm actively conducting scientific research on **AI Agents** and **Computer Vision**, and I'm diving deep into the world of **Generative AI**.
-
-I strongly believe that technology should be a force for good, **freeing people from repetitive tasks** and creating more space for meaningful life experiences. I'm dedicated to building intelligent systems that handle the mundane, giving workers back their most valuable resource: **time**.
-
----
-
-## 🛠 Technical Arsenal
-
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white)
-
-### 📊 Data Tools
-![PySpark](https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/databricks-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![Airflow](https://img.shields.io/badge/airflow-000000?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-## 🔬 Current Focus
-
-- **Research**: AI Agents and Computer Vision applications
-- **Learning**: Generative AI architectures and implementations  
-- **Building**: Intelligent systems that automate meaningful work
-- **Exploring**: How AI can create better work-life balance for everyone
-
-<!-- ---
-
-## 📈 GitHub Analytics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almemanuel&hide=stars&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&custom_title=GitHub%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almemanuel&layout=compact&count_private=true&show_icons=true&theme=tokyonight&border_radius=4&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
--->
----
-
-> "Technology should amplify human potential, not replace human purpose." 
-> *– Inspired by the belief that automation should give workers more time for meaningful life*
+<pre>
+OOOO00000000000000000000000000000000000000000    <b>emanuel@almeida</b> -----------------------------------------------------
+OOO000000000000000000000000000000000000000000    . Uptime: ................................ 28 years [4+ in Tech]
+OO0000000000000000000000000000000000000000000    . Host: .................................. Valence Tech (Founder) | Uniguaçu
+O000000000000000000Okdoolcc::cdO0000000000000    . Role: .................................. Mid Analytics Engineer (ex-iFood)
+0000000000000000ko:,...........'lk00000000000    .
+00000000000000Oo'...',;;:;,'.....;k0000000000    . Languages: ............................. Python, SQL
+0000000000000Ol. .':odxxxxdoc;'...l0000000000    . Frameworks.Libs: ....................... FastAPI, Spark, LangChain, SQLAlchemy, Pandas
+0000000000000k,..'coddxxxxxxdoc,..:OK00000000    . Infra.Tools: ........................... Docker, Git, n8n, Airflow, Linux
+0000000000000k,.'cccccloxxdooool,.c0000000000    .
+0000000000000k;'clccccclddl::cloc'l00000000K0    - Focus & Interests
+0000000000000Odloddddooodddddddddlk00000KKKKK    . Data: .................................. Data Engineering, Pipelines, Modeling & Analytics
+00000000000OO0kdddxxxdoodddxxxxxkO00000KKKKKK    . AI: .................................... Autonomous Agents, Agentic Workflows, LLMs, RAG
+00000000000O0OOxddxxxolloooxxxxxk000000KKKKKK    .
+0000000000000OOkddddollloooodxxxO00000KKKKKKK    - Profiles & Contact
+0000000000000OOOxxddooooodddxxxk00000KKKKKKKK    . LinkedIn: .............................. <a href="https://linkedin.com/in/almeida-emanuel">almeida-emanuel</a>
+0000000000000000OxddddddxxxxxdkO0000KKKKKKKKK    . GitHub: ................................ <a href="https://github.com/almsemanuel">almsemanuel</a>
+00000000000OOOkxoooooooodddddddxkO000KKKKKKKK
+00000000OOOOOOkollodddddddxxxxdoxOOO000000KKK
+00000OOOOOOOOOOxooodxxxxxxxxxddxkOOOOOOOO0OO0
+00000OOO000OOO0kdodddxxxxxxxdxkO00OOOOOOOOOO0
+0000000000OOO00OkxdddxxxxxxxkkO000OO000OOOOO0
+00000000O0000000OOOkkkxxkkOO0O00K0OO00OOOOOO0
+0000K000OO0K000000OOOOOO000OO000000000OOOOOOO
+</pre>
